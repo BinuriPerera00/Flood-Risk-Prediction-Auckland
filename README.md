@@ -32,6 +32,7 @@ Included datasets:
 - Henderson.csv
 - manukau_full.csv
 
+Full datasets and supplementary materials are available via https://autuni-my.sharepoint.com/:f:/g/personal/fwq9797_autuni_ac_nz/IgBioDlOUWJSTJlNQF_SK7xoAab05XlrpUi12H0fVV9qy58?e=miXij8
 
 ## Main Notebook
 
